@@ -15,5 +15,7 @@
     <img align= "center" alt="HTML5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
     <img align= "center" alt="HTML5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div><br/>
   Interesse em aprender Linguagens novas, cursando ADS!
